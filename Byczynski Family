@@ -23,6 +23,6 @@
     </style>
 </head>
 <body>
-    <iframe src="https://app.vectorshift.ai/chatbots/embedded/69fa933c643eab81063f8418?openChatbot=true" width="500px" height="600px" style="border: none; position: fixed; bottom: 0; right: 0; margin: 10px;" allow="clipboard-read; clipboard-write; microphone"/>
+<script async id="vectorshift-chat-widget" src="https://app.vectorshift.ai/chatWidget.js" chatbot-id="69fa933c643eab81063f8418" chatbot-height="600px" chatbot-width="400px" />
 </body>
 </html>
